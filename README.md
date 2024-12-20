@@ -55,7 +55,7 @@ Made 2 line plots for top 10 and bottom 10 countries life expectancies.
 
 ## Findings
 
-Counties with high life expectancy seem to have low infant death rates and low adult mortality rates, meanwhile the countries with the lowest life expectancy generally have the opposite - a high infant mortality rate and a high adult mortality rate. Given these, the top 10 countries for life expectancy are Japan, Switzerland, Iceland, Italy, Australia, Spain, Sweden, France, Isreal, and Canada.
+Counties with high life expectancy tend to have low infant mortality rates and low adult mortality rates. Meanwhile, the countries with the lowest life expectancy generally exhibit the opposite: high infant mortality rates and high adult mortality rates. Given this, the top 10 countries for life expectancy are Japan, Switzerland, Iceland, Italy, Australia, Spain, Sweden, France, Israel, and Canada.
 
 ## Supporting Data:
 
@@ -67,10 +67,8 @@ Counties with high life expectancy seem to have low infant death rates and low a
 
 ## Summarize
 
-In general, countries that have low infant and adult mortality rates have the best life expectancy.
-
-Main conclusion 
+In general, countries that have low infant and adult mortality rates have the best life expectancy. 
 
 ## Recommendations:
 
-Could continue to analyze what raises life expectancy by using additional columns of the .csv file. For example, compare countries with high vs. low BMI for life expectancy, and GDP per capita to see if countries with higher GDP have better life expectancy. Additionally, examine which countries may perform better in healthcare by analyzing data from the polio, diphtheria, or HIV columns. Further data analysis could be applied to investigate what contributes to higher vs. lower life expectancy. From there, suggestions could be made for increasing life expectancy globally.
+To find more data relating to life expectancy, continue to analyze additional columns of the .csv file. For example, by comparing countries with high vs. low BMI for life expectancy;  GDP per capita to see if countries with higher GDP have better life expectancy; and examine which countries may perform better in healthcare by analyzing data from the polio, diphtheria, or HIV columns. From there, suggestions could be made for increasing life expectancy globally.
