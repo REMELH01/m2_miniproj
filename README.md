@@ -65,10 +65,12 @@ Counties with high life expectancy seem to have low infant death rates and low a
 
 # 6. Conclusion and Recommendations
 
-## Summarize: Present the main conclusions drawn from the analysis.
+## Summarize
 
-text here 
+In general, countries that have low infant and adult mortality rates have the best life expectancy.
+
+Main conclusion 
 
 ## Recommendations:
 
-text here
+Could continue to analyze what raises life expectancy by using additional columns of the .csv file. For example, compare countries with high vs. low BMI for life expectancy, and GDP per capita to see if countries with higher GDP have better life expectancy. Additionally, examine which countries may perform better in healthcare by analyzing data from the polio, diphtheria, or HIV columns. Further data analysis could be applied to investigate what contributes to higher vs. lower life expectancy. From there, suggestions could be made for increasing life expectancy globally.
