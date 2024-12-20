@@ -55,11 +55,11 @@ Made 2 line plots for top 10 and bottom 10 countries life expectancies.
 
 ## Findings
 
-text here
+Counties with high life expectancy seem to have low infant death rates and low adult mortality rates, meanwhile the countries with the lowest life expectancy generally have the opposite - a high infant mortality rate and a high adult mortality rate. Given these, the top 10 countries for life expectancy are Japan, Switzerland, Iceland, Italy, Australia, Spain, Sweden, France, Isreal, and Canada.
 
 ## Supporting Data:
 
-text here
+2 tables in .ipynb file to support.
 
 
 
